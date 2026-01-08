@@ -6,7 +6,7 @@ import { FormData } from './types';
 
 const SUCCESS_GREEN = '#22C55E';
 const SUCCESS_TEAL = '#2FBBA8';
-const WHATSAPP_LINK = "https://wa.me/5521985899548";
+const WHATSAPP_LINK = "https://wa.me/5521985899548?text=Ol%C3%A1!%20Acabei%20de%20completar%20meu%20Diagn%C3%B3stico%20de%20GMN%20e%20percebi%20que%20preciso%20melhorar%20o%20meu%20perfil%20e%20me%20posicionar%20melhor%20para%20atrair%20mais%20clientes";
 
 const WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbw0bu5Ygr7RRqt8diSRVhEWORDBlcFG6aWrsoah9IKwMJIcLBaZXvg7SjfMCjNWHgNg/exec"; 
 
